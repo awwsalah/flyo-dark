@@ -4,6 +4,7 @@ import headercard from './headercard.vue'
 import IntroCard from './IntroCard.vue'
 import Carouselcard from './Carouselcard.vue'
 import Productivecard from './Productivecard.vue'
+import Reviewcard from './Reviewcard.vue'
 </script>
 
 <template>
@@ -14,6 +15,7 @@ import Productivecard from './Productivecard.vue'
         <IntroCard />
         <Carouselcard />
         <Productivecard />
+        <Reviewcard />
     </div>
 </template>
 
@@ -24,7 +26,7 @@ import Productivecard from './Productivecard.vue'
     justify-content: center;
     align-items: center;
     gap: 50px;
-    margin: 0 100px;
+    
 
 }
 </style>

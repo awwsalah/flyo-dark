@@ -68,5 +68,8 @@ img{
     img{
         width: 300px;
     }
+    .card2{
+        text-align: center;
+    }
 }
 </style>
