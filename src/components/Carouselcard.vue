@@ -38,7 +38,7 @@
     justify-content: center;
     align-content: center;
     gap: 80px;
-    margin: 50px;
+    margin: 20px;
 }
 .card{
     display: flex;

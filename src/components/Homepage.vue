@@ -5,7 +5,10 @@ import IntroCard from './IntroCard.vue'
 import Carouselcard from './Carouselcard.vue'
 import Productivecard from './Productivecard.vue'
 import Reviewcard from './Reviewcard.vue'
+import Signupform from './Signupform.vue'
+import footercard from './footercard.vue'
 </script>
+
 
 <template>
     <nav>
@@ -16,7 +19,11 @@ import Reviewcard from './Reviewcard.vue'
         <Carouselcard />
         <Productivecard />
         <Reviewcard />
+        <Signupform />
     </div>
+    <footer>
+        <footercard />
+    </footer>
 </template>
 
 <style scoped>

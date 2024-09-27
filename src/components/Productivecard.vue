@@ -64,12 +64,15 @@ img{
     .flex-card{
         flex-direction: column;
         gap: 50px;
+        justify-content: center;
+        align-items: center;
     }
     img{
         width: 300px;
     }
     .card2{
         text-align: center;
+        align-items: center;
     }
 }
 </style>
